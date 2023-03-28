@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrdefire
+- 👋 Hi, I’m @mrdefire-http://https://wwww.go.microsoft.com/fwlink/?LinkID=298186
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,3 +9,4 @@ mrdefire/mrdefire is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 How about the maskin? T.W.M.G.N
+http://go.microsoft.com/fwlink/?LinkID=298186
